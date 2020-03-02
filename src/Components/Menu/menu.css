@@ -1,0 +1,18 @@
+a.jesus{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+    margin-left: 30px;
+    
+}
+
+.jesus:hover{
+    color: rgb(255, 215, 19);
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.nav {
+    background-color: #00244a !important;
+}
+

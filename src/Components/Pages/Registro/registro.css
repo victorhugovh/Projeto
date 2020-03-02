@@ -1,0 +1,32 @@
+.jumb{
+    margin: auto;
+    margin-top: 0;
+    height: 900px; 
+    color: rgb(255, 215, 19);
+    background: rgb(12,8,84);
+    background: linear-gradient(90deg, rgba(12,8,84,1) 0%, rgba(32,134,191,1) 100%);
+}
+
+
+.cont1{
+    margin-top:90px;
+    
+}
+
+div.jumb.jumbotron{
+    margin-bottom: 0rem;
+
+}
+
+
+.btn-outline{
+    color: #e9ecef !important;
+    background-color: transparent !important;
+    border: 2px solid #027cff !important;
+}
+
+
+.box{
+    margin-right: 10px;
+    margin-left: 150px;
+}
