@@ -53,7 +53,7 @@ const FormPage = () => {
                         validate
                         error="wrong"
                         success="right"
-                        
+
                       />
                       <MDBInput
                         
@@ -67,6 +67,7 @@ const FormPage = () => {
                       />
                       <div className="text-center mb-3">
                         <MDBBtn
+
                           type="button"
                           gradient="blue"
                           rounded
@@ -89,4 +90,3 @@ const FormPage = () => {
 };
 
 export default FormPage;
-
