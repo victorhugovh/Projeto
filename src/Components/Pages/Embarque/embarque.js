@@ -58,12 +58,12 @@ export default function Embarque() {
               
               <tr>
 
-              <td>07:00</td>
-              <td>5</td>
-              <td>5</td>
-              <td>5</td>
-              <td>5</td>
-              <td>20</td>
+                <td>07:00</td>
+                <td>5</td>
+                <td>5</td>
+                <td>5</td>
+                <td>5</td>
+                <td>20</td>
               
               </tr>
           </tbody>
